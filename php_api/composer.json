@@ -1,0 +1,12 @@
+{
+    "require": {
+        "firebase/php-jwt": "*",
+        "phpmailer/phpmailer": "*",
+        "elasticsearch/elasticsearch": "7.14.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        }
+    }
+}
