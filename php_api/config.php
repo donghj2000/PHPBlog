@@ -10,8 +10,8 @@ $config = [
   "EMAIL_SERVER_TYPE" => "qq", //类型qq邮箱
   "EMAIL_SERVER_HOST" => "smtp.qq.com",
   "EMAIL_PORT" => 465,
-  "EMAIL_HOST_USER" => "81037981@qq.com", // 发送方的邮箱
-  "EMAIL_HOST_PASSWORD" => "avlwwqbacoowbhag",//"hlqzyssfrifkbjea", // smtp 的授权码
+  "EMAIL_HOST_USER" => "xxxxxxxx@qq.com", // 发送方的邮箱
+  "EMAIL_HOST_PASSWORD" => "xxxxxxxx", // smtp 的授权码
   
   "MYSQL_DB" => "tornadoblog",
   "MYSQL_USERNAME" => "root",
